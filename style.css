@@ -1,4 +1,5 @@
 body{
+    margin: 0;
     font-family: 'Roboto', sans-serif;
 }
 h1{
@@ -15,4 +16,11 @@ h1{
 }
 .second img{
     width: 50%;
+}
+section{
+    height: 550px;
+}
+.topbanner {
+    background-image: url(images/top-banner.png);
+    background-repeat: no-repeat;
 }
