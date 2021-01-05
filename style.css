@@ -24,3 +24,10 @@ section{
     background-image: url(images/top-banner.png);
     background-repeat: no-repeat;
 }
+.button{
+    text-decoration: none;
+    background: rgb(126, 19, 94);
+    color: white;
+    padding: 10px 20px;
+    border-radius: 8px;
+}
